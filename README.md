@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago!</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batistatiago" alt="batistatiago" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batistatiago" alt="batistatiago" /></a> </p> -->
 
 - 🌱 I’m currently learning **AWS and DevOps**
 
