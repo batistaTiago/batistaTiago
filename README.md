@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS and DevOps**
 
-- 👨‍💻 All of my projects are available at [batistatiago.com](batistatiago.com)
+- 👨‍💻 All of my projects are available at [batistatiago.com](http://batistatiago.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
